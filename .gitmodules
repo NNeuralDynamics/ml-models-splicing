@@ -1,0 +1,3 @@
+[submodule "SpliceTransformer"]
+	path = SpliceTransformer
+	url = git@github.com:talismanbrandi/SpliceTransformer.git
