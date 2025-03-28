@@ -1,3 +1,6 @@
 [submodule "SpliceTransformer"]
 	path = SpliceTransformer
 	url = git@github.com:talismanbrandi/SpliceTransformer.git
+[submodule "hyena-dna"]
+	path = hyena-dna
+	url = git@github.com:talismanbrandi/hyena-dna.git
