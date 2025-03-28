@@ -7,3 +7,6 @@
 [submodule "RiNALMo"]
 	path = RiNALMo
 	url = git@github.com:NNeuralDynamics/RiNALMo.git
+[submodule "nucleotide-transformer"]
+	path = nucleotide-transformer
+	url = git@github.com:NNeuralDynamics/nucleotide-transformer.git
