@@ -10,3 +10,6 @@
 [submodule "nucleotide-transformer"]
 	path = nucleotide-transformer
 	url = git@github.com:NNeuralDynamics/nucleotide-transformer.git
+[submodule "Pangolin"]
+	path = Pangolin
+	url = git@github.com:NNeuralDynamics/Pangolin.git
